@@ -1,0 +1,1 @@
+User accounts are managed securely through Firebase Authentication. If users wish to delete their account, they can do so within the app.
