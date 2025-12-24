@@ -1,1 +1,0 @@
-User accounts are managed securely through Firebase Authentication. If users wish to delete their account, they can do so within the app by navigating to the account settings and selecting the delete account option. If you encounter any issues or prefer to have your account deleted manually, please contact us at franc200078@gmail.com.
