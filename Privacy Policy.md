@@ -1,18 +1,17 @@
 Privacy Policy
 
-**Effective Date:** December 24, 2025  
-**Last Updated:** December 24, 2025
+**Effective Date:** January 19, 2026  
+**Last Updated:** January 19, 2026
 
 ---
 
 ## Scope and Applicability
 
-This Privacy Policy applies to **all mobile applications and services** developed and operated by CFMC ("we", "our", or "us") and published on Google Play Console, including but not limited to:
+This Privacy Policy applies to **all mobile applications and services** developed and operated by CFMC DevWorks ("we", "our", or "us") and published on Google Play Console, including but not limited to:
 
-- **SineManga** - Manga reading application
-- All current and future CFMC applications available on Google Play Store
+- All current and future CFMC DevWorks applications available on Google Play Store
 
-Throughout this policy, "Service", "App", or "Application" refers collectively to any and all CFMC applications you use.
+Throughout this policy, "Service", "App", or "Application" refers collectively to any and all CFMC DevWorks applications you use.
 
 ---
 
@@ -24,7 +23,7 @@ Throughout this policy, "Service", "App", or "Application" refers collectively t
 
 This Privacy Policy describes how we collect, use, store, share, and protect your personal information when you use any of our Services. It also explains your rights and choices regarding your personal data.
 
-By accessing or using any CFMC application, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree with any part of this policy, please discontinue use of our Services immediately.
+By accessing or using any CFMC DevWorks application, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree with any part of this policy, please discontinue use of our Services immediately.
 
 ## Table of Contents
 
@@ -60,7 +59,7 @@ When you register for an account or use our Service, we may collect:
 
 - **Account Information**:
   - Email address, username, display name, profile picture
-  - **Password Security**: Your password is NEVER stored or accessible by CFMC. All passwords are managed exclusively by Firebase Authentication using industry-standard encryption and security protocols. We have no access to your plain-text password at any time.
+  - **Password Security**: Your password is NEVER stored or accessible by CFMC DevWorks. All passwords are managed exclusively by Firebase Authentication using industry-standard encryption and security protocols. We have no access to your plain-text password at any time.
 - **Authentication Data**:
   - **Managed 100% by Firebase (Google)**: All authentication, login sessions, and credential management
   - Secure authentication tokens, session management, and multi-factor authentication (if enabled)
@@ -87,7 +86,7 @@ When you access or use our Service, we automatically collect:
 
 ## 3. How We Use Your Data
 
-CFMC processes your personal information for the following purposes:
+CFMC DevWorks processes your personal information for the following purposes:
 
 ### Service Delivery
 
@@ -120,7 +119,7 @@ CFMC processes your personal information for the following purposes:
 - Protect against unauthorized access and use
 - Enforce our Terms of Service and other policies
 - Comply with legal obligations and respond to lawful requests
-- Protect the rights, property, and safety of CFMC, our users, and the public
+- Protect the rights, property, and safety of CFMC DevWorks, our users, and the public
 
 ### Analytics and Advertising
 
@@ -236,7 +235,7 @@ Firebase's data handling is also governed by Google's Privacy Policy and Firebas
 - Firebase Privacy and Security: https://firebase.google.com/support/privacy
 - Google Privacy Policy: https://policies.google.com/privacy
 
-**Important**: While we use Firebase for infrastructure, CFMC remains the data controller responsible for your personal information. Firebase acts as a data processor on our behalf.
+**Important**: While we use Firebase for infrastructure, CFMC DevWorks remains the data controller responsible for your personal information. Firebase acts as a data processor on our behalf.
 
 ## 7. Cookies and Tracking Technologies
 
@@ -279,7 +278,7 @@ As detailed in Section 6, Firebase (Google) is our primary infrastructure provid
 
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
 
-CFMC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+CFMC DevWorks will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 **Cross-Border Transfers:**
 If you access our Service from outside the country where our servers are located, your information may be transferred across international borders. For users in the EEA, UK, or Switzerland, we ensure appropriate safeguards are in place, such as:
@@ -302,7 +301,7 @@ We do not sell, rent, or trade your personal information to third parties for th
 - To comply with applicable laws, regulations, legal processes, or enforceable governmental requests
 - To enforce our Terms of Service and investigate potential violations
 - To detect, prevent, or address fraud, security, or technical issues
-- To protect the rights, property, or safety of CFMC, our users, or the public as required or permitted by law
+- To protect the rights, property, or safety of CFMC DevWorks, our users, or the public as required or permitted by law
 
 **Business Transfers:**
 
@@ -352,7 +351,7 @@ The security of your data is of paramount importance to us. We implement industr
   - Physical security at data centers (biometric access, surveillance)
   - Regular third-party security audits and penetration testing
 
-**Application-Level Security (CFMC):**
+**Application-Level Security (CFMC DevWorks):**
 
 - **Access Controls**: Strict internal access controls limit employee and contractor access to personal data on a need-to-know basis
 - **Secure Development**: Following OWASP secure coding practices and conducting code reviews
@@ -365,7 +364,7 @@ The security of your data is of paramount importance to us. We implement industr
 We implement a zero-knowledge architecture for passwords. This means:
 
 - We NEVER see, store, or have access to your password
-- Even CFMC administrators cannot access your password
+- Even CFMC DevWorks administrators cannot access your password
 - Only Firebase's secure authentication system processes passwords
 - Password resets are handled entirely by Firebase without human intervention
 
@@ -382,7 +381,7 @@ In the unlikely event of a data breach affecting your personal information, we w
 
 ## 12. Your Privacy Rights
 
-CFMC respects your privacy rights and is committed to providing you with control over your personal information. Depending on your location, you may have the following rights:
+CFMC DevWorks respects your privacy rights and is committed to providing you with control over your personal information. Depending on your location, you may have the following rights:
 
 **Access and Data Portability:**
 
@@ -425,21 +424,21 @@ CFMC respects your privacy rights and is committed to providing you with control
 To exercise any of these rights, please contact us at franc200078@gmail.com. We will respond to your request within 30 days (or as required by applicable law). We may need to verify your identity before processing your request to ensure the security of your personal information.
 
 **For Data Managed by Firebase:**
-Since your authentication and account data is stored in Firebase, data access and deletion requests will trigger the removal of data from both CFMC databases and Firebase infrastructure. This is done automatically through secure API calls.
+Since your authentication and account data is stored in Firebase, data access and deletion requests will trigger the removal of data from both CFMC DevWorks databases and Firebase infrastructure. This is done automatically through secure API calls.
 
 ## 13. Account Deletion
 
-**User accounts are managed securely through Firebase Authentication.** You have full control over your account and data across all CFMC applications.
+**User accounts are managed securely through Firebase Authentication.** You have full control over your account and data across all CFMC DevWorks applications.
 
 ### How to Delete Your Account:
 
 **Option 1: In-App Deletion** (Recommended):
 
-- Open any CFMC app (SineManga or other CFMC applications)
+- Open any CFMC DevWorks app (SineManga or other CFMC DevWorks applications)
 - Navigate to: **Settings → Account Settings → Delete Account**
 - Confirm your decision and authenticate your identity
 - Your account will be permanently deleted within 24 hours
-- **Note**: Deleting your account in one CFMC app deletes it across ALL CFMC applications
+- **Note**: Deleting your account in one CFMC DevWorks app deletes it across ALL CFMC DevWorks applications
 
 **Option 2: Manual Request via Email**:
 
@@ -469,7 +468,7 @@ Since your authentication and account data is stored in Firebase, data access an
 - User-generated content (comments, ratings, reviews) removed or anonymized
 - Personal data removed from active databases
 - Reading history, bookmarks, and preferences deleted
-- Access to all CFMC applications terminated
+- Access to all CFMC DevWorks applications terminated
 
 **Within 30 Days:**
 
@@ -486,7 +485,7 @@ Some data must be retained longer as required by law:
 - Aggregated, de-identified usage statistics
 
 **Multi-App Impact:**
-⚠️ **Important**: Your CFMC account is shared across all our applications. Deleting your account in one app (e.g., SineManga) will delete it from ALL CFMC apps you use. This cannot be undone.
+⚠️ **Important**: Your CFMC DevWorks account is shared across all our applications. Deleting your account in one app (e.g., SineManga) will delete it from ALL CFMC DevWorks apps you use. This cannot be undone.
 
 ### Data Export Before Deletion:
 
@@ -543,7 +542,7 @@ These automated decisions do not produce legal or similarly significant effects.
 
 ## 17. Application-Specific Features
 
-While this Privacy Policy applies uniformly to all CFMC applications, certain apps may have unique features that collect additional data types:
+While this Privacy Policy applies uniformly to all CFMC DevWorks applications, certain apps may have unique features that collect additional data types:
 
 ### SineManga:
 
@@ -553,7 +552,7 @@ While this Privacy Policy applies uniformly to all CFMC applications, certain ap
 - Reading preferences (page layout, brightness, reading direction)
 - Community interactions (comments, ratings on manga titles)
 
-### Future CFMC Applications:
+### Future CFMC DevWorks Applications:
 
 As we release new applications on Google Play Console, this policy will govern their data practices. App-specific features and data collection will be disclosed:
 
@@ -562,9 +561,9 @@ As we release new applications on Google Play Console, this policy will govern t
 - Through in-app notifications for existing users
 
 **Unified Account System:**
-All CFMC applications share the same Firebase-based account system. This means:
+All CFMC DevWorks applications share the same Firebase-based account system. This means:
 
-- ✅ **Single Sign-On**: Log in once, access all CFMC apps
+- ✅ **Single Sign-On**: Log in once, access all CFMC DevWorks apps
 - ✅ **Unified Profile**: Same account info across all apps
 - ✅ **Centralized Control**: Manage privacy settings from any app
 - ⚠️ **Shared Deletion**: Deleting your account affects all apps
@@ -572,7 +571,7 @@ All CFMC applications share the same Firebase-based account system. This means:
 **App-Specific Data Isolation:**
 While your account is shared, app-specific data remains separate:
 
-- Data from SineManga is not accessible to other CFMC apps
+- Data from SineManga is not accessible to other CFMC DevWorks apps
 - Each app has its own database with isolated access controls
 - Deleting one app doesn't delete data from other apps (unless you delete your entire account)
 
@@ -601,7 +600,7 @@ We encourage you to review this Privacy Policy periodically to stay informed abo
 **Policy Updates Across Multiple Apps:**
 When we update this Privacy Policy:
 
-- Changes apply to ALL CFMC applications simultaneously
+- Changes apply to ALL CFMC DevWorks applications simultaneously
 - You'll be notified in each app you use
 - The same effective date applies across all apps
 - You can review the policy anytime at: https://github.com/Koykoy200078/privacy_details
@@ -610,10 +609,10 @@ When we update this Privacy Policy:
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**CFMC - Data Protection Officer**
+**CFMC DevWorks - Data Protection Officer**
 
 - **Email**: franc200078@gmail.com (primary contact method)
-- **Subject Line Format**: "Privacy Inquiry - [App Name]" or "Privacy Inquiry - All CFMC Apps"
+- **Subject Line Format**: "Privacy Inquiry - [App Name]" or "Privacy Inquiry - All CFMC DevWorks Apps"
 - **Response Time**: We aim to respond to all inquiries within 5-7 business days
 
 **For Specific Requests:**
@@ -648,13 +647,13 @@ For questions specifically about Firebase's data handling, security infrastructu
 
 ## Legal Information
 
-**Data Controller**: CFMC is the data controller for all personal information collected through our applications.
+**Data Controller**: CFMC DevWorks is the data controller for all personal information collected through our applications.
 
 **Data Processor**: Firebase (Google LLC) acts as our data processor for authentication, database, storage, and analytics services.
 
 **Jurisdiction**: This Privacy Policy is governed by applicable international data protection laws including GDPR (EU), CCPA (California), PIPEDA (Canada), and other regional privacy regulations.
 
-**Google Play Console Apps**: This policy covers all CFMC applications distributed through Google Play Console. A list of covered apps can be found at: https://play.google.com/store/apps/developer?id=CFMC
+**Google Play Console Apps**: This policy covers all CFMC DevWorks applications distributed through Google Play Console. A list of covered apps can be found at: https://play.google.com/store/apps/developer?id=CFMC DevWorks
 
 ---
 
@@ -662,21 +661,21 @@ For questions specifically about Firebase's data handling, security infrastructu
 
 This Privacy Policy demonstrates our commitment to:
 
-- Protecting your privacy across all CFMC applications
+- Protecting your privacy across all CFMC DevWorks applications
 - Utilizing enterprise-grade security through Firebase infrastructure
 - Complying with applicable data protection laws including GDPR, CCPA, COPPA, and other relevant regulations
 - Maintaining transparency about our data practices and third-party services
 - Empowering you with control over your personal information
 
-By using any CFMC application (including SineManga and future apps), you acknowledge that you have read and understood this Privacy Policy and agree to the data practices described herein.
+By using any CFMC DevWorks application (including SineManga and future apps), you acknowledge that you have read and understood this Privacy Policy and agree to the data practices described herein.
 
 **Firebase Acknowledgment**: You acknowledge that Firebase (Google) processes your authentication and application data as described in this policy and that Firebase's own privacy terms apply to their services.
 
-Thank you for trusting CFMC with your personal information. We are committed to earning and maintaining that trust through responsible data practices and robust security measures.
+Thank you for trusting CFMC DevWorks with your personal information. We are committed to earning and maintaining that trust through responsible data practices and robust security measures.
 
 ---
 
 **Document Version**: 2.0  
-**Applicable to**: All CFMC applications on Google Play Console  
+**Applicable to**: All CFMC DevWorks applications on Google Play Console  
 **Primary Infrastructure**: Firebase (Google Cloud Platform)  
 **Policy URL**: https://github.com/Koykoy200078/privacy_details/blob/main/Privacy%20Policy.md

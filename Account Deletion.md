@@ -1,19 +1,19 @@
 # Account Deletion Policy
 
 **Last Updated:** December 24, 2025  
-**Applies to:** All CFMC applications on Google Play Console
+**Applies to:** All CFMC DevWorks applications on Google Play Console
 
 ---
 
 ## Overview
 
-**User accounts are managed securely through Firebase Authentication.** You have full control over your account and can delete it at any time across all CFMC applications (including SineManga and any other CFMC apps you use).
+**User accounts are managed securely through Firebase Authentication.** You have full control over your account and can delete it at any time across all CFMC DevWorks applications (including SineManga and any other CFMC DevWorks apps you use).
 
 ---
 
 ## ⚠️ Important Notice: Multi-App Account
 
-**Your CFMC account is shared across ALL our applications.** Deleting your account in one app (e.g., SineManga) will permanently delete it from ALL CFMC apps. This action cannot be undone.
+**Your CFMC DevWorks account is shared across ALL our applications.** Deleting your account in one app (e.g., SineManga) will permanently delete it from ALL CFMC DevWorks apps. This action cannot be undone.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Option 1: In-App Deletion (Recommended) ✅
 
-1. Open any CFMC application (SineManga or other CFMC apps)
+1. Open any CFMC DevWorks application (SineManga or other CFMC DevWorks apps)
 2. Navigate to: **Settings** → **Account Settings** → **Delete Account**
 3. Review the deletion warning about multi-app impact
 4. Confirm your decision by authenticating your identity
@@ -30,7 +30,7 @@
 **Apps where you can delete:**
 
 - SineManga
-- Any other CFMC app with account settings
+- Any other CFMC DevWorks app with account settings
 
 ### Option 2: Manual Deletion via Email 📧
 
@@ -57,7 +57,7 @@ If you encounter technical issues or cannot access the in-app deletion feature:
 - ❌ Firebase Authentication account terminated
 - ❌ All login sessions revoked across all devices
 - ❌ Authentication tokens invalidated
-- ❌ You are logged out from all CFMC apps
+- ❌ You are logged out from all CFMC DevWorks apps
 
 ### Within 24 Hours:
 
@@ -67,7 +67,7 @@ If you encounter technical issues or cannot access the in-app deletion feature:
 - ❌ Bookmarks, reading lists, and preferences
 - ❌ App settings and customizations
 - ❌ Personal data from active databases
-- ❌ Access to all CFMC applications permanently removed
+- ❌ Access to all CFMC DevWorks applications permanently removed
 
 ### Within 30 Days:
 
@@ -122,7 +122,7 @@ Once your account is deleted:
 
 - ❌ You cannot recover your account
 - ❌ You cannot recover your data (reading history, bookmarks, etc.)
-- ❌ You will need to create a new account to use CFMC apps again
+- ❌ You will need to create a new account to use CFMC DevWorks apps again
 - ❌ Creating a new account will start fresh - no data from the old account
 
 **Grace Period:** Some data may remain in backup systems for up to 30 days, but recovery is NOT guaranteed. After 30 days, deletion is 100% irreversible.
@@ -136,16 +136,16 @@ Once your account is deleted:
 Deleting your account affects:
 
 - ✅ **SineManga** - All manga reading history, bookmarks, and progress
-- ✅ **All other CFMC apps** - Any app using your CFMC account
-- ✅ **Future CFMC apps** - You'll need a new account to use new apps
+- ✅ **All other CFMC DevWorks apps** - Any app using your CFMC DevWorks account
+- ✅ **Future CFMC DevWorks apps** - You'll need a new account to use new apps
 
 ### What Happens in Each App:
 
-| App                 | Data Deleted                                                                 |
-| ------------------- | ---------------------------------------------------------------------------- |
-| **SineManga**       | Reading history, bookmarks, manga lists, comments, ratings, reading progress |
-| **Other CFMC Apps** | All app-specific data, preferences, user content                             |
-| **Account**         | Shared login credentials, profile info, authentication                       |
+| App                          | Data Deleted                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------- |
+| **SineManga**                | Reading history, bookmarks, manga lists, comments, ratings, reading progress |
+| **Other CFMC DevWorks Apps** | All app-specific data, preferences, user content                             |
+| **Account**                  | Shared login credentials, profile info, authentication                       |
 
 ---
 
@@ -155,7 +155,7 @@ Deleting your account affects:
 
 Your account uses **Firebase Authentication (Google)**:
 
-- Passwords are never accessible to CFMC or Firebase staff
+- Passwords are never accessible to CFMC DevWorks or Firebase staff
 - Account deletion removes all Firebase authentication records
 - OAuth connections (Google, Facebook sign-in) are revoked
 - Email verification status is cleared
@@ -225,5 +225,5 @@ This account deletion policy complies with:
 
 **For more information, see our complete [Privacy Policy](Privacy%20Policy.md).**
 
-**CFMC Development Team**  
+**CFMC DevWorks Development Team**  
 Last Updated: December 24, 2025
